@@ -1,4 +1,4 @@
-# Pluralsight - Angular: Getting Started - practice and theory but dry - 6h
+# Pluralsight - Angular: Getting Started
 git/angularGettingStarted
 https://www.pluralsight.com/courses/angular-2-getting-started-update
 https://github.com/deborahk/angular-gettingstarted
