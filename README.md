@@ -1,3 +1,8 @@
+# Pluralsight - Angular: Getting Started - practice and theory but dry - 6h
+git/angularGettingStarted
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+https://github.com/deborahk/angular-gettingstarted
+
 # AngularGettingStarted
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
